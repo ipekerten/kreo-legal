@@ -1,2 +1,5 @@
-# kreo-legal
-Privacy policy for Kreo
+# Kreo
+
+[Privacy Policy](https://ipekerten.github.io/kreo-legal/privacy/)
+
+[Contact me!](https://ipekerten.github.io/kreo-legal/support/)
