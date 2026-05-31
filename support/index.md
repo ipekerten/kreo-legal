@@ -2,6 +2,6 @@
 
 For questions, bug reports, or feedback:
 
-Email: ipek.erten@ozu.edu.tr
+Email: [ipek.erten@ozu.edu.tr](mailto:ipek.erten@ozu.edu.tr)
 
 LinkedIn: [linkedin.com/in/ipekerten](https://www.linkedin.com/in/ipekerten/)
